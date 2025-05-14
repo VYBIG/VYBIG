@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Preview GIF](preview.gif)
 <!-- [![Мини-профиль Steam](https://gamer2810.github.io/steam-miniprofile/preview.png)](https://gamer2810.github.io/steam-miniprofile/?accountId=282367992) -->
 <!--
 **VYBIG/VYBIG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
