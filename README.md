@@ -3,7 +3,7 @@
 
 🕹️ ![Static Badge](https://img.shields.io/badge/MY_STEAM-PROFILE-black?link=https%3A%2F%2Fsteamcommunity.com%2Fid%2FVY_BIG%2F) 
 
-![Preview GIF](.github/preview.gif)
+![Preview GIF](.github/steam.gif)(https://steamcommunity.com/id/VY_BIG/)
 <!--
 **VYBIG/VYBIG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
