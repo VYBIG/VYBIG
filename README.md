@@ -1,7 +1,7 @@
 ## Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VYBIG&label=Profile%20views&color=0e75b6&style=flat" alt="VYBIG" /> </p>
+[![Профиль Steam]([https://gamer2810.github.io/steam-miniprofile/?accountId=282367992](https://steamcommunity.com/id/VY_BIG/))
 ![Preview GIF](preview.gif)
-<!-- [![Мини-профиль Steam](https://gamer2810.github.io/steam-miniprofile/preview.png)](https://gamer2810.github.io/steam-miniprofile/?accountId=282367992) -->
-<!--
 **VYBIG/VYBIG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VYBIG&show_icons=true&locale=en" alt="VYBIG" /></p>
