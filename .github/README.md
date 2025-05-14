@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VYBIG&label=Profile%20views&color=0e75b6&style=flat" alt="VYBIG" /> </p>
-[![Профиль Steam]([https://gamer2810.github.io/steam-miniprofile/?accountId=282367992](https://steamcommunity.com/id/VY_BIG/))
+[![Профиль Steam]((https://steamcommunity.com/id/VY_BIG/))
 ![Preview GIF](preview.gif)
 **VYBIG/VYBIG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
