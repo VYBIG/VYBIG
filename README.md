@@ -1,5 +1,5 @@
 <h1 align="center">Привет! Меня зовут Василий</h1>
-<h3 align="center">Разработчик ПО в <a href="https://astralinux.ru" target="_blank">Русбитех-Астра</h3>
+<h3 align="center">Разработчик ПО</h3>
 
 ## Связь со мной:
 
